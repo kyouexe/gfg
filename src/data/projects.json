@@ -1,0 +1,32 @@
+[
+  {
+    "id": "website",
+    "title": "Personal Website",
+    "description": "My first website built with HTML and CSS. It has some information about me.",
+    "category": "Web",
+    "technologies": ["HTML", "CSS"],
+    "date": "2024-01-15",
+    "featured": true,
+    "content": "This is my first website. I made it to learn HTML and CSS. It was fun to build.\n\nI learned a lot about web development from this project. The website has information about me and my hobbies."
+  },
+  {
+    "id": "calculator",
+    "title": "Simple Calculator",
+    "description": "A basic calculator that can do math operations like add, subtract, multiply and divide.",
+    "category": "Web",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "date": "2024-02-10",
+    "featured": true,
+    "content": "I built this calculator to practice JavaScript. It can do basic math operations.\n\nThe calculator has buttons for numbers and operations. When you click them, it shows the result."
+  },
+  {
+    "id": "todo-list",
+    "title": "Todo List App",
+    "description": "A simple app where you can add tasks and mark them as done when you finish them.",
+    "category": "Web",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "date": "2024-03-05",
+    "featured": true,
+    "content": "This todo list helps me keep track of things I need to do. I can add new tasks and check them off when I'm done.\n\nI learned about JavaScript arrays and DOM manipulation while building this."
+  }
+]
